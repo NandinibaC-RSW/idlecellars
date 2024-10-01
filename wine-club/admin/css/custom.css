@@ -1,0 +1,18 @@
+#woo_club_main_div .nav-tab-wrapper{background: #fff;
+    padding-top: 0; margin-top: 15px; margin-left: -23px;border: 0;}
+#woo_club_main_div .nav-tab{padding: 13px 0px;
+    font-size: 13px;background: #fff; font-weight: 400;border: 0;
+    margin: 0 10px 0 18px;}      
+#woo_club_main_div .nav-tab.nav-tab-active{border-bottom: solid 2px #f79840;}
+#woo_club_main_div .wp-heading{color: #2b0f2b; font-size: 1.5em; margin: 30px 0 0;}
+#woo_club_main_div .wp-heading span{display: block;font-weight: 400; font-style: italic; font-size: 13px;
+    margin: 10px 0 1em; color: #2b2a2a; letter-spacing: 0.3px;}
+#woo_club_main_div .wine-club-content{margin: 20px 0 0;}
+#woo_club_main_div .button-primary{font-size: 14px; font-weight: 400;
+    text-transform: uppercase; padding: 4px 13px;height: auto;letter-spacing: 0.3px;
+    border-radius: 0; border: 0;background: #461646;text-decoration: none;text-shadow: none;box-shadow: inherit;} 
+#woo_club_main_div .widefat{border: 0px; background:transparent;width: 70%; } 
+#woo_club_main_div .widefat td, #woo_club_main_div .widefat th { padding: 0px 10px 15px 0;}
+#woo_club_main_div .alternate{background:transparent;}
+
+.disableEmail{ filter: blur(1px);  cursor: not-allowed; }

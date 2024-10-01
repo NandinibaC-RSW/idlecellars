@@ -1,0 +1,6 @@
+{
+    "require": {
+        "square/square": "17.2.0.20220216",
+        "stripe/stripe-php": "^7.116"
+    }
+}
